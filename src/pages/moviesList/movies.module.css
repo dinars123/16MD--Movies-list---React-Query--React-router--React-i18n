@@ -1,0 +1,42 @@
+.movieWrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.moviecard{
+    background-color: #b3c0c6;
+    border: 2px solid #6c936e;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    transition: transform 0.2s;
+    &:hover {
+        transform: scale(1.05); /* Increase the size on hover */
+      }
+}
+
+.buttonSplit{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    width: 100%;
+}
+
+.button{
+    background-color: #6c936e;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: white;
+    transition: transform 0.2s;
+    &:hover{
+        cursor: pointer;
+        transform: scale(1.05);
+    }
+}

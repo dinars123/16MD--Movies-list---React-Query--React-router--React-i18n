@@ -1,0 +1,12 @@
+
+
+body{
+background-color: #f9fbf9;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+
+.content{
+    max-width: 1200px;
+    margin: 0 auto;
+}

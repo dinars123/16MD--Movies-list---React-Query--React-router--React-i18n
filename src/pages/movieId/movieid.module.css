@@ -1,0 +1,65 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.labelInputSplit{
+    display: flex;
+    flex-direction: column;
+}
+
+.commentAuthor{
+   font-weight: 700;
+   color: #6c936e;
+}
+.authorsComment{
+    font-size: 14px;
+}
+
+.commented{
+    font-weight: 300;
+    color: #6c936e;
+}
+
+.displayComment{
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(141, 146, 170, 0.3);
+    margin-bottom: 20px;
+}
+
+.greenText{
+    color: #6c936e;
+}
+
+.authorsInput{
+    padding: 5px;
+    max-width: 200px;
+    border-radius: 5px;
+    border: 1px solid #b3c0c6;
+}
+
+.inputOk{
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+.textBoxInput{
+    border-radius: 5px;
+    border: 1px solid #b3c0c6;
+    min-height: 70px;
+    padding: 15px;
+    font-size: 16px;
+}
+
+.button{
+    color: #fff;
+    background-color: #6c936e;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+
+}

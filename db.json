@@ -1,0 +1,208 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "comments": [
+        {
+          "author": "User1",
+          "text": "Mind-bending storyline!"
+        },
+        {
+          "author": "asdfasdf",
+          "text": "asdfasdf"
+        },
+        {
+          "author": "adam",
+          "text": "good movie"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "releaseYear": 2008,
+      "director": "Christopher Nolan",
+      "rating": 9,
+      "description": "When the menace known as The Joker emerges, Batman must confront him to bring justice to Gotham.",
+      "comments": [
+        {
+          "author": "User1",
+          "text": "Mind-bending storyline!"
+        },
+        {
+          "author": "User2",
+          "text": "Great visual effects."
+        },
+        {
+          "author": "User3",
+          "text": "Incredible performances."
+        },
+        {
+          "author": "User4",
+          "text": "An intense experience!"
+        },
+        {
+          "author": "slaviks",
+          "text": "afigennā filma"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine.",
+      "comments": [
+        {
+          "author": "User5",
+          "text": "Quirky and unpredictable."
+        },
+        {
+          "author": "User6",
+          "text": "Memorable dialogue."
+        },
+        {
+          "author": "User7",
+          "text": "Stylish and iconic."
+        },
+        {
+          "author": "david",
+          "text": "good movie"
+        },
+        {
+          "author": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "description": "The presidencies of Kennedy to Johnson seen through the eyes of a simple man with the IQ of a genius.",
+      "comments": [
+        {
+          "author": "User8",
+          "text": "Heartwarming and inspiring."
+        },
+        {
+          "author": "User9",
+          "text": "Tom Hanks delivers a fantastic performance."
+        },
+        {
+          "author": "User10",
+          "text": "A classic for all ages."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Schindler's List",
+      "genre": "Biography",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "rating": 8.9,
+      "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+      "comments": [
+        {
+          "author": "User11",
+          "text": "Emotionally impactful."
+        },
+        {
+          "author": "User12",
+          "text": "Historically significant."
+        },
+        {
+          "author": "User13",
+          "text": "A powerful portrayal of history."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "genre": "Action",
+      "releaseYear": 1999,
+      "director": "The Wachowskis",
+      "rating": 8.7,
+      "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+      "comments": [
+        {
+          "author": "User14",
+          "text": "Revolutionary visual effects."
+        },
+        {
+          "author": "User15",
+          "text": "Thought-provoking storyline."
+        },
+        {
+          "author": "User16",
+          "text": "Mind-blowing action sequences."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "releaseYear": 1999,
+      "director": "David Fincher",
+      "rating": 8.8,
+      "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "comments": [
+        {
+          "author": "User17",
+          "text": "Twisted and mind-bending."
+        },
+        {
+          "author": "User18",
+          "text": "Great plot twists."
+        },
+        {
+          "author": "User19",
+          "text": "A cult classic."
+        },
+        {
+          "author": "adsf",
+          "text": "adsf"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Adventure",
+      "releaseYear": 2001,
+      "director": "Peter Jackson",
+      "rating": 8.8,
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.",
+      "comments": [
+        {
+          "author": "User20",
+          "text": "Epic fantasy adventure."
+        },
+        {
+          "author": "User21",
+          "text": "Impressive world-building."
+        },
+        {
+          "author": "User22",
+          "text": "So good!"
+        }
+      ]
+    }
+  ]
+}
